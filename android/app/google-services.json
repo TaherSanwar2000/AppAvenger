@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19336663566",
+    "project_id": "appavenger-df23d",
+    "storage_bucket": "appavenger-df23d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19336663566:android:c176fad988d4d4f5ee625f",
+        "android_client_info": {
+          "package_name": "com.appavenger_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC85Mjn4p3wxSWdHD-o-aCUoEZKFanoZFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
